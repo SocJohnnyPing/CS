@@ -140,5 +140,6 @@
 * [Inside your computer - Bettina Bair](https://www.youtube.com/watch?v=AkFi90lZmXA)
 * [Computer Basics: Getting to Know Laptop Computers](https://www.youtube.com/watch?v=6LIv2ocJXRk&list=PLpQQipWcxwt-xhJVJs7MCcU-XzWYVsTQt&index=8)
 * [How computer memory works - Kanawat Senanan](https://www.youtube.com/watch?v=p3q5zWCw8J4)  
-
+  
+  
 * 3C = Computer + Communication + Consumer electronics  
