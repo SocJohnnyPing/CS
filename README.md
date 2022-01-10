@@ -1,3 +1,2 @@
-# CS
-計算機概論
-
+# Hello Git
+This is a git test
